@@ -1,0 +1,9 @@
+{
+  "blue-topaz-theme@@transparent-setting-panel": false,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-topaz-nord",
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "blue-topaz-theme@@background-image-settings-switch": false,
+  "blue-topaz-theme@@simple-p-kanban": false,
+  "Blue-Topaz-Codebox-Highlight@@code-box-style-option": "codebox-default-style",
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-material-palenight"
+}

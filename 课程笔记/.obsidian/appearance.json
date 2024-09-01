@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Blue Topaz",
+  "baseFontSize": 19,
+  "monospaceFontFamily": "Consolas",
+  "textFontFamily": "华文宋体",
+  "enabledCssSnippets": [
+    "段落",
+    "两端对齐"
+  ]
+}

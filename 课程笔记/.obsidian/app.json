@@ -1,0 +1,20 @@
+{
+  "attachmentFolderPath": "./附件",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showLineNumber": true,
+  "spellcheck": false,
+  "tabSize": 4,
+  "spellcheckLanguages": null,
+  "showFrontmatter": true,
+  "autoConvertHtml": true,
+  "readableLineLength": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

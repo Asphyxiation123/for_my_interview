@@ -1,0 +1,388 @@
+{
+  "main": {
+    "id": "efb91ca56dd7cfd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "93afd3441bc382aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1a4c14657b87501",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyC++_coding/理解C++面对对象.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b79c2d7cfa26571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyC++_coding/C++基础知识点/C++多线程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c51d10e32eb1825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STM32嵌入式学习/stm32_Necluo/硬件信息.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "571f50430058ef6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyC++_coding/C++细节.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "639b369d9aaac870",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "STM32嵌入式学习/stm32_Necluo/附件/STM32G474系列.png"
+              }
+            }
+          },
+          {
+            "id": "50e0d3b096dedba6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyC++_coding/周赛特辑其他题集.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "213f159a73127dd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STM32嵌入式学习/FreeRTOS/FREERTOS应用相关.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5172ad3c5cc826e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机基础知识/计算机网络.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81e372eaa06e25de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/LinuxC编程/Makefile.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46565251d3c97d47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/Linux嵌入式学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89efe1cc989a66a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyC++_coding/算法常见题型2（贪心与动态规划等高级算法）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c6d203cc562299c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyC++_coding/理解C++面对对象.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "641a6af7637e1f69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STM32嵌入式学习/FreeRTOS/FREERTOS应用相关.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "724177f650648714",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STM32嵌入式学习/FreeRTOS/简明ARM架构与汇编指令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38512d787510d9be",
+    "type": "split",
+    "children": [
+      {
+        "id": "900b44f41db5b981",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d8a84306ce7013d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "137a4964a1584418",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "面经",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b97336ca0dd87a49",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "aed4474e63aaee72",
+            "type": "leaf",
+            "state": {
+              "type": "book-explorer-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "87e72a6b3d81031c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.50328826904297
+  },
+  "right": {
+    "id": "925d977a7a7bcb9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cacf2f67ac391d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "262d042afeb5df21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MyC++_coding/算法常见题型2（贪心与动态规划等高级算法）.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0cca4c311437cca4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MyC++_coding/算法常见题型2（贪心与动态规划等高级算法）.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "15cb13ccb9b656fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b557e29925840644",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MyC++_coding/算法常见题型2（贪心与动态规划等高级算法）.md"
+              }
+            }
+          },
+          {
+            "id": "0dcfd617171fcfba",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 376.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-booknote-plugin:书库": false,
+      "workspaces:管理工作区布局": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "89efe1cc989a66a6",
+  "lastOpenFiles": [
+    "计算机基础知识/计算机网络.md",
+    "STM32嵌入式学习/FreeRTOS/FREERTOS应用相关.md",
+    "求职与职业/面经.md",
+    "MyC++_coding/算法常见题型2（贪心与动态规划等高级算法）.md",
+    "MyC++_coding/理解C++面对对象.md",
+    "STM32嵌入式学习/FreeRTOS/简明ARM架构与汇编指令.md",
+    "MyC++_coding/C++基础知识点/1. C++编程知识点.md",
+    "LINUX/Linux嵌入式学习.md",
+    "STM32嵌入式学习/stm32_Necluo/附件/STM32G474系列.png",
+    "MyC++_coding/C++基础知识点/C++多线程.md",
+    "计算机基础知识/操作系统.md",
+    "LINUX/LinuxC编程/Makefile.md",
+    "STM32嵌入式学习/STM32重要外设介绍与函数/GPIO.md",
+    "MyC++_coding/算法常见题型1.md",
+    "MyC++_coding/C++细节.md",
+    "STM32嵌入式学习/stm32_Necluo/硬件信息.md",
+    "MyC++_coding/周赛特辑其他题集.md",
+    "MyC++_coding/附件/Pasted image 20240618094650.png",
+    "MyC++_coding/数据结构/C++数据结构与算法基础.md",
+    "MyC++_coding/附件/Pasted image 20240607103530.png",
+    "求职与职业",
+    "MyC++_coding/附件/Pasted image 20240606212509.png",
+    "MyC++_coding/附件/Pasted image 20240606212501.png",
+    "MyC++_coding/C++基础知识点/常用 C++ STL 用法.md",
+    "MyC++_coding/数据结构/常用算法时间复杂度.md",
+    "MyC++_coding/数据结构/刷题常用算法.md",
+    "STM32嵌入式学习/stm32_Necluo/en.MB1136-DEFAULT-C04_Schematic.pdf",
+    "MyC++_coding/附件/Pasted image 20240604111822.png",
+    "MyC++_coding/附件/Pasted image 20240604111658.png",
+    "MyC++_coding/附件/Pasted image 20240604111655.png",
+    "MyC++_coding/附件/Pasted image 20240527151212.png",
+    "C-Resource-master/第5阶段-C++提高编程资料/提高编程能力资料/讲义/C++提高编程.md",
+    "LINUX/LinuxC编程/cmake笔记.md",
+    "STM32嵌入式学习/STM32重要外设介绍与函数/附件/Pasted image 20240525172407.png",
+    "MyC++_coding/C++刷题常用数据结构及技巧.md",
+    "LINUX/Linux字典/linux-command-master/command/make.md",
+    "LINUX/Linux字典/linux-command-master/command/7z.md",
+    "STM32嵌入式学习/FreeRTOS/韦东山_FreeRTOS/[1-2]_讲师介绍与课程风格.md",
+    "MyC++_coding/设计模式",
+    "LINUX/附件",
+    "未命名.canvas",
+    "esp32c3/原理图/CORE-ESP32-C3设计原理图_V1.2.pdf",
+    "C-Resource-master/第1阶段C++ 匠心之作 从0到1入门/C++基础入门讲义/附件",
+    "MyPYTHON_Coding/附件",
+    "MyPYTHON_Coding/库研究",
+    "MyPYTHON_Coding",
+    "STM32嵌入式学习/算法技巧类型"
+  ]
+}
